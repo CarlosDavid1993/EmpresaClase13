@@ -1,8 +1,8 @@
-/*@author carlos carrasco
-	 @version21-02-2023 */
+
 
 package prevencion;
-
+/*@author carlos carrasco
+@version21-02-2023 */
 public class Usuario {
 
 	private String nombre;
@@ -35,7 +35,7 @@ public class Usuario {
 	}
 	
 	//metodo set para establecer fecha nacimiento
-	private void SetFecha_nacimiento (String fechaNacimiento) {
+	public void SetFecha_nacimiento (String fechaNacimiento) {
 		this.fecha_nacimiento = fechaNacimiento;
 	}
 	
@@ -45,7 +45,7 @@ public class Usuario {
 	}
 	
 	//metodo set para establecer rut
-	private void SetRut (int rut) {
+	public void SetRut (int rut) {
 		this.rut = rut;
 	}
 	

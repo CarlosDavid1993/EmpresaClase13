@@ -1,8 +1,8 @@
-	/* @author david morales
-	 * @version 21-02-2023 */
+
 
 package prevencion;
-
+/* @author david morales
+ * @version 21-02-2023 */
 public class Cliente {
 
 	private int rut;
