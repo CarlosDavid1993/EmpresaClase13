@@ -1,5 +1,9 @@
 package prevencion;
 
+//@author: Ricardo Poblete
+//@version: 21/09/2023 v1.0
+
+//Clase que define la capacitacion.
 class Capacitacion {
     private int identificador;
     //Identificador para identificar la capacitacion.-
